@@ -1,0 +1,129 @@
+    1  ls
+    2  git status
+    3  code
+    4  git add index.html
+    5  git status
+    6  cd index.html
+    7  touch index.html
+    8  cd index.html
+    9  code index.html
+   10  touch edx
+   11  cd edx
+   12  cd desktop
+   13  git config --global user.name 
+   14  git config --global user.name "Steve"
+   15  git config --global user.email "stevemolele@yahoo.com"
+   16  help
+   17  git status
+   18  git
+   19  dir
+   20  cd edx
+   21  touch index.html
+   22  code index.html
+   23  code edx
+   24  ..
+   25  ../
+   26  /..
+   27  code
+   28  cd index.html
+   29  cls
+   30  node -v
+   31  node-v
+   32  node-v
+   33  node -v
+   34  git status
+   35  git --version
+   36  git config
+   37  git config user.name
+   38  git config user.email
+   39  ls
+   40  cd desktop
+   41  touch index.html
+   42  ls
+   43  code index.html
+   44  ls
+   45  ls data
+   46  ls /data
+   47  ls /etc/perl
+   48  ls /
+   49  pwd
+   50  cd /
+   51  pwd
+   52  cd ~
+   53  pwd
+   54  cd
+   55  pwd
+   56  cd desktop
+   57  ls
+   58  mkdir git-basic-exercises
+   59  ls
+   60  cd git-basic-exercises
+   61  ls -a
+   62  git init
+   63  ls -a
+   64  git status
+   65  touch README.md
+   66  ls -a
+   67  git status
+   68  git log
+   69  git add README.md
+   70  git status
+   71  git rm --cached README.md
+   72  git status
+   73  git add README.md
+   74  git commit -m
+   75  git commit
+   76  git status
+   77  git commit -m "initial commit"
+   78  git log
+   79  nano README.md
+   80  cat README.md
+   81  git stats
+   82  git status
+   83  git commit -m "second commit"
+   84  nano README.md
+   85  git status
+   86  cat README.md
+   87  git commit -m "third commit"
+   88  git add
+   89  GIT ADD .
+   90  git add .
+   91  git status
+   92  git commit -m "second commit"
+   93  nano README.md
+   94  git add README.md
+   95  git status
+   96  git commit -m "third commit"
+   97  cat README.md 
+   98  git log
+   99  git checkout 
+  100  git checkout Author: Steve <stevemolele@yahoo.com>
+  101  cat README.md 
+  102  git checkout 6b34506d2ea667ac88553d58cba66c448b0101f2
+  103  cat README.md 
+  104  git checkout main
+  105  cat README.md 
+  106  git checkout main
+  107  git switch -
+  108  cat README.md 
+  109  git branch
+  110  git branch milkshake-flavours
+  111  git branch
+  112  git checkout milkshake-flavours 
+  113  git branch
+  114  nano milkshakes.md
+  115  git status
+  116  add .a
+  117  git add .a
+  118  git add -a
+  119  git status
+  120  git add milkshakes.md 
+  121  git status
+  122  git commit -m "added initial flavours"
+  123  git log
+  124  git checkout master 
+  125  git branch history
+  126  git checkout history
+  127  git log
+  128  git branch
+  129  history > history.txt
